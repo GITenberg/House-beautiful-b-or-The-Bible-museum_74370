@@ -1,0 +1,30 @@
+_repo: House-beautiful-b-or-The-Bible-museum_74370
+_version: 0.0.1
+creator:
+  author:
+    agent_name: A. L. O. E.
+    aliases:
+    - A.L.O.E.
+    - Tucker, Charlotte Maria
+    birthdate: 1821
+    deathdate: 1893
+    gutenberg_agent_id: '31385'
+    url: http://www.gutenberg.org/2009/agents/31385
+    wikipedia: https://en.wikipedia.org/wiki/Charlotte_Maria_Tucker
+description: ''
+gutenberg_issued: '2024-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74370'
+language: en
+pgterms:marc905: 20240819071705aloe
+pgterms:marc906: '1868'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bT. Nelson and Sons, $c1868.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'House beautiful : $b or, The Bible museum'
+url: http://www.gutenberg.org/ebooks/74370
